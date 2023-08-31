@@ -1,0 +1,25 @@
+body{
+    background-image: url(img/Design\ sem\ nome.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.bau{
+    width: 100%;
+    display: flex;
+    align-content: middle;
+
+}
+
+.link1{
+    text-decoration: none;
+    color: #E0C8E0;
+    border: 3px solid #BACAE0;
+    border-radius: 7px; 
+    align-items: center;
+}
+.link2{
+    text-decoration: none;
+    color: #E0C8E0;
+    border: 3px solid #BACAE0;
+    border-radius: 7px
+}
