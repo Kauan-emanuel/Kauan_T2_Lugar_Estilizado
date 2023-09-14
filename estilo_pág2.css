@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Noto+Sans+Sundanese&display=swap');
+*{
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Noto Sans Sundanese', sans-serif;
+}
+.Titulo{
+    background-color: #56c4e6;
+    text-align: center;
+}
+.imagens_inicial{
+    background-color: #b8d8e2;
+    text-align: center;
+}
+.links1{
+    border: 5px solid #88e6c9;
+    border-radius: 7px;
+    justify-content: center;
+    word-spacing: 10px;
+}
+.titulo_tabela{
+    display: flex;
+    justify-content: center;
+}
+.tabela_tabela{
+    display: flex;
+    justify-content: center;
+}
+.introducao{
+    background-color: rgb(233, 222, 209);    
+}
+.imagem{
+    display: flex;
+    justify-content:space-between;
+}
+.imagem img{
+    width: 500px;
+    height: 350px;
+}
