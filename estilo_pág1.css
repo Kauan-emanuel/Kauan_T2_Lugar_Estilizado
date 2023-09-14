@@ -1,11 +1,9 @@
 body{
-    background: #03501d;
-}
-.Ilhas_Maldivas{ 
-    border-radius: 50%;
     background-image: url(img/Design\ sem\ nome.png);
+    background-size: cover;
     background-repeat: no-repeat;
 }
+
 .posicao_maldivas{
     width: 100%;
     height: 50%;
@@ -35,12 +33,6 @@ body{
     height: 100%;
     display: flex;
     justify-content: center;
-}
-.posicao_economia{
-    padding-top: 185px;
-    background-image: url(img/ilhas_maldivas_economia.jpg);
-    background-size: 100%;
-    background-repeat: no-repeat;
 }
 #link_pag3{
     font-size: 35px; 
