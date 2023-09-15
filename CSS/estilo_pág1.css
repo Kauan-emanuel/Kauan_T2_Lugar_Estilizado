@@ -1,0 +1,51 @@
+body{
+    background-image: url(img/Design\ sem\ nome.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.posicao_maldivas{
+    width: 100%;
+    height: 50%;
+}
+.alinhamento_link1{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+#link_pag2{
+    font-size: 35px; 
+    color: #02070c;
+    text-decoration: none;
+    background-color: #a6b7ee;
+    border: 5px solid #87d3ad;
+    border-radius: 7px; 
+}
+.text_introducao{
+    color: #080808;
+    line-height: 30px;
+    word-spacing: 7px;
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 185px;
+}
+.alinhamento_link2{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+#link_pag3{
+    font-size: 35px; 
+    color: #02070c;
+    text-decoration: none;
+    background-color: #a6b7ee;
+    border: 5px solid #87d3ad;
+    border-radius: 7px; 
+}
+.text_economia{
+    color: #080808;
+    line-height: 30px;
+    word-spacing: 7px;
+    text-align: center;
+    font-size: 24px;
+}
