@@ -5,7 +5,7 @@
     font-family: 'Noto Sans Sundanese', sans-serif;
 }
 body{
-    background-color: rgb(233, 228, 221);
+    background-color: rgb(238, 215, 183);
 }
 .Titulo{
     background-color: #56c4e6;
@@ -34,11 +34,11 @@ body{
     justify-content:space-between;
 }
 .imagem img{
-    width: 500px;
+    width: 400px;
     height: 350px;
 }
 .introducao{
-    background-color: rgb(233, 222, 209);
+    background-color: rgb(221, 165, 97);
     text-align: center;    
 }
 .titulo_introducao{
@@ -49,7 +49,7 @@ body{
     justify-content:space-between;
 }
 .imagens_introducao img{
-    width: 500px;
+    width: 400px;
     height: 350px;
 }
 .lugar{
@@ -60,7 +60,7 @@ body{
     justify-content:space-between;
 }
 .lugar_malé img{
-    width: 500px;
+    width: 400px;
     height: 350px;
 }
 .lugar_hulhumale{
@@ -68,7 +68,7 @@ body{
     justify-content:space-between;
 }
 .lugar_hulhumale img{
-    width: 500px;
+    width: 400px;
     height: 350px;
 }
 .lugar_thulusdhoo{
@@ -76,7 +76,7 @@ body{
     justify-content:space-between;
 }
 .lugar_thulusdhoo img{
-    width: 500px;
+    width: 400px;
     height: 350px;
 }
 
@@ -88,7 +88,7 @@ body{
     justify-content:space-between;
 }
 .comida_garudhiya img{
-    width: 500px;
+    width: 400px;
     height: 350px;
 }
 .comida_kulhi{
@@ -96,7 +96,7 @@ body{
     justify-content:space-between;
 }
 .comida_kulhi img{
-    width: 500px;
+    width: 400px;
     height: 350px;
 }
 .comida_lagosta{
@@ -104,7 +104,7 @@ body{
     justify-content:space-between;
 }
 .comida_lagosta img{
-    width: 500px;
+    width: 400px;
     height: 350px;
 }
 
@@ -116,9 +116,19 @@ body{
     justify-content:space-between;
 }
 .imagens_historia img{
-    width: 500px;
+    width: 400px;
     height: 350px;
 }
 .mais{
     background-color: rgb(190, 228, 228);
+}
+.link_pág3{
+    font-size: 20px; 
+    color: #02070c;
+    text-align: center;
+    text-decoration: none;
+    background-color: #d3d3e2;
+    border: 5px solid #000000;
+    border-radius: 7px; 
+    word-spacing: 10px
 }

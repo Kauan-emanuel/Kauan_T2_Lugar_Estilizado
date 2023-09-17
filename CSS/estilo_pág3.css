@@ -4,3 +4,77 @@
     font-family: 'Inter', sans-serif;
     font-family: 'Noto Sans Sundanese', sans-serif;
 }
+body{
+    background-color: rgba(132, 202, 100, 0.596);
+}
+.Titulo{
+    background-color: #f5e724;
+    text-align: center;
+}
+.economia{
+    background-color: rgba(16, 173, 10, 0.719);
+    text-align: center;
+}
+.texto_economia{
+    text-align: center;
+}
+.titulo_tabela{
+    display: flex;
+    justify-content: center;
+}
+.tabela_economia{
+    display: flex;
+    justify-content: center;
+}
+.imagens_economia{
+    display: flex;
+    justify-content:space-between;
+}
+.imagens_economia img{
+    width: 400px;
+    height: 350px;
+}
+.cultura{
+    background-color: rgba(98, 165, 156, 0.726);
+}
+.titulo_cultura{
+    text-align: center;
+}
+.texto_cultura{
+    text-align: center;
+}
+.imagens_cultura{
+    display: flex;
+    justify-content:space-between;
+}
+.imagens_cultura img{
+    width: 400px;
+    height: 350px;
+}
+.religião{
+    background-color: rgba(163, 126, 233, 0.925);
+}
+.titulo_religiao{
+    text-align: center;
+}
+.texto_religiao{
+    text-align: center;
+}
+.imagens_religiao{
+    display: flex;
+    justify-content:space-between;
+}
+.imagens_religiao img{
+    width: 400px;
+    height: 350px;
+}
+.link_pág1_pág2{
+    font-size: 20px; 
+    color: #02070c;
+    text-align: center;
+    text-decoration: none;
+    background-color: #d3d3e2;
+    border: 5px solid #000000;
+    border-radius: 7px; 
+    word-spacing: 10px
+}
